@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "desenvolvimento de uma aplicação mobile",
+      "type": "income",
+      "category": "venda",
+      "price": 18000,
+      "createdAt": "2024-09-09T11:49:31.201Z"
+    },
+    {
+      "id": 2,
+      "description": "desenvolvimento de um Website",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2024-09-09T10:42:35.201Z"
+    },
+    {
+      "id": 3,
+      "description": "Comida - universidade",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 5,
+      "createdAt": "2024-09-09T12:42:35.201Z"
+    }
+  ]
+}
